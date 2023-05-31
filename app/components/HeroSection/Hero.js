@@ -1,5 +1,4 @@
 import Image from 'next/image';
-
 import istock from "../../../public/istockphoto-1131893484-612x612.jpg";
 import Button from '../Button/Button';
 import style from "../../hero.module.css";

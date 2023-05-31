@@ -1,4 +1,4 @@
-import React from 'react';
+
 import style from '../../banner.module.css';
 import Button from '../Button/Button';
 import Link from 'next/link';

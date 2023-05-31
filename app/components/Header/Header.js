@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Button from '../Button/Button';
 import Link from 'next/link';
 
@@ -38,10 +38,10 @@ const Header = () => {
                     <ul className="menu menu-horizontal px-1">
                         
                         <Link href={'/demos'}><li><a>Demos</a></li></Link>
-                        <Link href={'/About'}><li><a>About</a></li></Link>
-                        <Link href={'/Blog'}><li><a>Blog</a></li></Link>
-                        <Link href={'/Pages'}><li><a>Pages</a></li></Link>
-                        <Link href={'/Contact'}><li><a>Contact</a></li></Link>
+                        <Link href={'/about'}><li><a>About</a></li></Link>
+                        <Link href={'/blog'}><li><a>Blog</a></li></Link>
+                        <Link href={'/pages'}><li><a>Pages</a></li></Link>
+                        <Link href={'/contact'}><li><a>Contact</a></li></Link>
                         {/* <li tabIndex={0}>
                             <a>
                                 Parent
