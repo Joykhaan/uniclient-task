@@ -1,0 +1,23 @@
+.background2{
+position: absolute;
+/* width: 220px;
+height: 220px;
+left: 804px; */
+width: 25%;
+height: 200px;
+/* left: 25%; */
+right: 0;
+/* top: 2021px; */
+background: rgba(54, 107, 242, 0.7);
+filter: blur(177px);
+}
+.background1{
+    position: absolute;
+    width: 25%;
+    height: 100px;
+left: 20%;
+/* top: 1374px; */
+
+background: rgba(159, 54, 242, 0.7);
+filter: blur(177px);
+}

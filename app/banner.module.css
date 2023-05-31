@@ -1,0 +1,23 @@
+.banner{
+    position: absolute;
+width: 25%;
+height: 200px;
+left: 25%;
+right: 25%;
+top: 151px;
+font-size: 100px;
+background: rgba(161, 54, 242, 0.683);
+filter: blur(177px);
+/* z-index: -1; */
+}
+.hh{
+    position: absolute;
+width: 152px;
+height: 152px;
+/* left: 1492px; */
+right: 0;
+top: 500px;
+
+background: rgba(242, 54, 144, 0.7);
+filter: blur(177px);
+}
